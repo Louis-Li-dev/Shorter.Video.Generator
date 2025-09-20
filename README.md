@@ -2,6 +2,8 @@
 *This system is specifically designed for you to upload audio or audio and pdf files for AI-Generated Content*
 [*Demo Link*](https://youtu.be/LEIIQ8Qtwdk)    
 
+📄 [Read the full paper: AI-Powered Lecture Shortener Framework](https://github.com/Louis-Li-dev/Shorter.Video.Generator/blob/main/AI_Powered_Lecture_Shortener_Framework.pdf)
+
 By taking advantage of this system, you can
 - Generate sample presentation with AI-TTS-generated speech.
 - Shorten the existing video for clarity.
@@ -90,4 +92,5 @@ python app.py
 - Kokoro TTS (text to speech)
   - hexgrad/Kokoro-82M. Retrieved from [https://github.com/hexgrad/kokoro](https://github.com/hexgrad/kokoro)
     
+
 
